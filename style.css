@@ -1,0 +1,24 @@
+body {
+  background: rgb(97, 148, 206);
+}
+ul {
+  list-style: none;
+}
+header {
+  justify-content: left;
+}
+main,
+footer {
+  text-align: center;
+}
+.header__title,
+.header__content {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ul,
+.footer__content,
+.footer__desc {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
